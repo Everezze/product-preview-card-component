@@ -56,6 +56,11 @@ img{
     vertical-align: bottom;
 }
 
+button img{
+    max-width: 1rem;
+    margin-right: .6rem;
+}
+
 button{
     display: block;
     width:100%;

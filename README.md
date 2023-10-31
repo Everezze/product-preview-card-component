@@ -35,4 +35,4 @@ content.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Everezze](https://www.frontendmentor.io/profile/Everezze)

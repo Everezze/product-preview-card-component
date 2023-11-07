@@ -2,6 +2,8 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+![product-preview-component](./design/desktop-preview.jpg)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -20,6 +22,10 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
+
+### Link
+
+Live site : [https://everezze.github.io/product-preview-card-component/](https://everezze.github.io/product-preview-card-component/)
 
 ## My process
 Make the html first with good structure and keeping in mind how the responsivness will
